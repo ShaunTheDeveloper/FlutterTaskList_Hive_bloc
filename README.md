@@ -1,6 +1,13 @@
-# tamrin
+# Flutter project
 
-A new Flutter project.
+flutter Task List Project
+
+contains: 
+   - HiveDatabase implementation
+   - Repository implementation
+   - bloc implementation
+   - provider implementation
+     
 
 ## Getting Started
 
